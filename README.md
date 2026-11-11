@@ -1,17 +1,20 @@
-# Orbit Calculator
+# Hi, I'm Anuj Yadav 👋
 
-A responsive scientific calculator built with plain HTML, CSS, and JavaScript.
+I'm a first-year student studying **cybersecurity and cloud computing**. I also work as an **AI evaluator**, and I'm looking to build projects in that space.
 
-## Run it
+## 🛠️ Skills
+- **Languages:** Python, C++, HTML
+- **Learning:** Cybersecurity, cloud computing
+- **Tools:** Git, GitHub, VS Code, Codex
 
-Open `index.html` in a modern browser. No build step or dependencies are required.
+## 🚀 Projects
+- **Advanced Calculator**: a scientific calculator built with HTML, CSS, and JavaScript. [Code](https://github.com/anuj90511201/advanced-calculator) | [Live demo](https://anuj90511201.github.io/advanced-calculator/)
 
-## Features
+## 🎯 Currently
+- Learning cybersecurity and cloud fundamentals
+- Building projects to practice what I learn
+- Open to projects related to AI evaluation
 
-- Arithmetic, parentheses, percentages, powers, square roots, factorials, and constants (`π`, `e`, `Ans`)
-- `sin`, `cos`, `tan`, `log` (base 10), and `ln`, with degree/radian angle selection
-- Memory controls, clickable calculation history, keyboard entry, and light/dark themes
-- Safe expression parsing without `eval()` or dynamic code execution
-- Clear validation messages for malformed expressions, division by zero, and invalid function domains
-
-The expression parser supports normal precedence, right-associative powers, unary signs, and implicit multiplication such as `2π` or `3(4+1)`. Percent converts a value to its fraction (for example, `50%` is `0.5`).
+## 📫 Contact
+- GitHub: [@anuj90511201](https://github.com/anuj90511201)
+- LinkedIn: [Anuj Yadav](https://www.linkedin.com/in/anuj-yadav-5119a3425/)
